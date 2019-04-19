@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "04b89a1c-a7aa-4190-9e7f-d27421bde585",
+            "Value": {
+                "id": "df36ba84-2951-4976-9c3f-5c1a53b57d79",
+                "resourcePath": "views\\cdc1c2e0-278e-48cb-9086-5e4241216a11-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0a6f883e-122d-4c21-926c-4859ca08e7ce",
             "Value": {
                 "id": "4ff0bd44-2685-42c0-9254-fef706b650d2",
@@ -146,7 +154,7 @@
             "Key": "7750d49f-b65d-4803-9d0f-a52956855f7f",
             "Value": {
                 "id": "67952ad9-3f80-484b-af6b-50e0056211cd",
-                "resourcePath": "objects\\Cat\\Cat.yy",
+                "resourcePath": "objects\\obj_cat\\obj_cat.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -156,6 +164,14 @@
                 "id": "e0541f9b-f86e-43ec-89af-358d7b06970f",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "7e7ce483-73e7-4f47-bad9-4baff323c822",
+            "Value": {
+                "id": "71d4f525-1fc0-4dee-973a-bfda95ce9c14",
+                "resourcePath": "scripts\\tile_miting\\tile_miting.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -226,7 +242,7 @@
             "Key": "a660f19b-2197-420a-9935-7178d3c9fcc5",
             "Value": {
                 "id": "7a814c4b-835c-4cc4-a4b5-5369762b5486",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourcePath": "sprites\\sprite_cat\\sprite_cat.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -236,6 +252,14 @@
                 "id": "2924ac42-bc80-4db8-a05a-0232ec158c78",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b21336f8-c196-488b-b8f4-7429b1756ea6",
+            "Value": {
+                "id": "cc57db08-b4d6-409d-a20a-ea3366237840",
+                "resourcePath": "objects\\object2\\object2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -344,7 +368,7 @@
         }
     ],
     "script_order": [
-        
+        "7e7ce483-73e7-4f47-bad9-4baff323c822"
     ],
     "tutorial": ""
 }
