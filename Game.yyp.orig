@@ -258,7 +258,11 @@
             "Key": "a660f19b-2197-420a-9935-7178d3c9fcc5",
             "Value": {
                 "id": "7a814c4b-835c-4cc4-a4b5-5369762b5486",
+<<<<<<< HEAD
+                "resourcePath": "sprites\\spr_cat\\spr_cat.yy",
+=======
                 "resourcePath": "sprites\\sprite_cat\\sprite_cat.yy",
+>>>>>>> 34ec1580d688d7ce9011dcc944590dd2de27c056
                 "resourceType": "GMSprite"
             }
         },
@@ -324,14 +328,6 @@
                 "id": "8fe5afa3-3548-4d85-afd8-04cf0adf9cdb",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "cdc1c2e0-278e-48cb-9086-5e4241216a11",
-            "Value": {
-                "id": "cdf8cde0-8b14-4ff7-b732-5f66a3bc5bee",
-                "resourcePath": "rooms\\Game\\Game.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

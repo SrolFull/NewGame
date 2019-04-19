@@ -7,8 +7,12 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "95441797-b9dc-4e9c-9e35-e63e3f000503"
+<<<<<<< HEAD:rooms/room_start/room_start.yy
+        "7f1659ea-c90c-495a-becc-0d30bc4eb5ba",
         "296dfd84-c440-4acd-82b6-0e1c0bb2b1e6"
+=======
+        "95441797-b9dc-4e9c-9e35-e63e3f000503"
+>>>>>>> 34ec1580d688d7ce9011dcc944590dd2de27c056:rooms/room0/room0.yy
     ],
     "IsDnD": false,
     "layers": [
