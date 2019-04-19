@@ -199,19 +199,19 @@
             }
         },
         {
-            "Key": "87dfb1bc-9ca9-41b9-ab21-9717e46bd8db",
-            "Value": {
-                "id": "5909e94f-9c66-4531-8df2-b6476be52b44",
-                "resourcePath": "views\\bfef41cf-bdeb-4ed8-a3ea-978dedfa1f1d-room.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "9301771b-da39-479c-968d-4e14729d236a",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "99980ad2-c919-402e-92fb-83ad4d847bca",
+            "Value": {
+                "id": "607a45b3-b97e-4ab3-a075-3595726695b2",
+                "resourcePath": "views\\99980ad2-c919-402e-92fb-83ad4d847bca.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
