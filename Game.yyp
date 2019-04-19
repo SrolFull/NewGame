@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0721f5d3-1e93-48e8-a5b9-bf12cfc35a07",
+            "Value": {
+                "id": "45e58d1b-78ec-41df-8e72-7c512d788b9c",
+                "resourcePath": "sprites\\spr_cat\\spr_cat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0a6f883e-122d-4c21-926c-4859ca08e7ce",
             "Value": {
                 "id": "4ff0bd44-2685-42c0-9254-fef706b650d2",
@@ -84,6 +92,14 @@
                 "id": "3815ef4a-6c1a-4067-8bb1-f5faa6024ea3",
                 "resourcePath": "options\\ps4\\options_ps4.yy",
                 "resourceType": "GMPS4Options"
+            }
+        },
+        {
+            "Key": "54845dd2-4a30-4e37-aeb2-aae1b059c2dc",
+            "Value": {
+                "id": "47ac1866-d056-4e8d-91a9-1b16fadf4fa9",
+                "resourcePath": "sprites\\spr_hell_background\\spr_hell_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
