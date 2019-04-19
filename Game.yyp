@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "2922ebc8-09fc-41b1-8685-9d393a5f3868",
+            "Value": {
+                "id": "d6daec7b-cf99-4539-90e4-9d5646e459be",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "31d92b03-7951-41cd-b258-0a06f8bdf85a",
             "Value": {
                 "id": "387a1e0a-114c-4e31-a784-064cab15f5e3",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "7750d49f-b65d-4803-9d0f-a52956855f7f",
+            "Value": {
+                "id": "67952ad9-3f80-484b-af6b-50e0056211cd",
+                "resourcePath": "objects\\Cat\\Cat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "e0541f9b-f86e-43ec-89af-358d7b06970f",
@@ -148,6 +164,14 @@
                 "id": "9b21472b-6b9c-47f8-8827-6d10dc2226a1",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "87dfb1bc-9ca9-41b9-ab21-9717e46bd8db",
+            "Value": {
+                "id": "5909e94f-9c66-4531-8df2-b6476be52b44",
+                "resourcePath": "views\\bfef41cf-bdeb-4ed8-a3ea-978dedfa1f1d-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -215,11 +239,27 @@
             }
         },
         {
+            "Key": "bab49075-4791-40d7-8f0f-aa1eea287801",
+            "Value": {
+                "id": "c8e47a19-b0bd-4b93-b865-e049aad4c49a",
+                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bfef41cf-bdeb-4ed8-a3ea-978dedfa1f1d",
             "Value": {
                 "id": "bb307c10-8157-4d16-90c7-78eeb5d69455",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c50e9521-8258-4d51-a26c-8a13ed95b29a",
+            "Value": {
+                "id": "d1e33e27-d401-4b2b-b05a-4bcbcf658090",
+                "resourcePath": "objects\\Platform\\Platform.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -236,6 +276,14 @@
                 "id": "8fe5afa3-3548-4d85-afd8-04cf0adf9cdb",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cdc1c2e0-278e-48cb-9086-5e4241216a11",
+            "Value": {
+                "id": "cdf8cde0-8b14-4ff7-b732-5f66a3bc5bee",
+                "resourcePath": "rooms\\Game\\Game.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
