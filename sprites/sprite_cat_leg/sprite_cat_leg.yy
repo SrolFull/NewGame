@@ -2,7 +2,7 @@
     "id": "9e1b6bb8-4ab4-4a34-9f4a-fd8d012fd0cb",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite_cat_legs",
+    "name": "sprite_cat_leg",
     "For3D": false,
     "HTile": false,
     "VTile": false,
