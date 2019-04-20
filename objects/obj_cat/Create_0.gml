@@ -7,4 +7,5 @@ speed_x = 0
 speed_y = 0
 fly = false
 stuck = false
-
+leg = false
+leg_normal = false
