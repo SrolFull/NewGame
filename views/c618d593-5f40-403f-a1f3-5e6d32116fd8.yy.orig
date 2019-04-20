@@ -15,15 +15,16 @@
         "79296f98-2b48-4acd-8863-5c4f61d8c1c0",
         "92e953f6-d7e2-4020-9e6c-923b461da4f5",
         "92d6dee1-5103-4685-b655-552227c61209",
-        "f4f2bc0d-048e-4fa9-bc0c-3fe94009ad28",
 <<<<<<< HEAD
         "a90efe6d-1844-4ae8-8410-a186cbaf9a29",
-        "0041e797-89e3-4ba3-9b42-6203783f733b"
+        "d8fb063e-e69a-49b2-8f01-7c4d945a1d84",
+        "74db64a0-69d2-4a67-9973-1f8e1a6c6f6f",
+        "491e2453-a604-42ba-b347-4e78046a5a03"
 =======
-        "a90efe6d-1844-4ae8-8410-a186cbaf9a29"
-        "3ced835c-5de1-4c52-962c-ad141aef5f39",
-        "8a7a3cc2-6c09-4a09-a4ae-e18168d0aee1"
->>>>>>> 76971fac4af9b5a96329f731f1801ce944802d62
+        "f4f2bc0d-048e-4fa9-bc0c-3fe94009ad28",
+        "a90efe6d-1844-4ae8-8410-a186cbaf9a29",
+        "453cdef2-6303-4c24-a497-fc39a230dc99"
+>>>>>>> Основная
     ],
     "filterType": "GMObject",
     "folderName": "objects",
