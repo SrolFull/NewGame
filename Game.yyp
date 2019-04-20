@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "655d8582-a801-4dd7-bc46-f3154f13e543",
+            "Value": {
+                "id": "84e2885e-e9cc-4467-bac4-ec8aabd35617",
+                "resourcePath": "sprites\\spr_room3\\spr_room3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6686131f-95df-449c-9bf2-e5dfe5234bd5",
             "Value": {
                 "id": "391a79c1-d43a-440e-95ff-7c2aaf23ae6a",
@@ -399,6 +407,14 @@
             }
         },
         {
+            "Key": "d2fcfdbe-8677-4690-abe4-6adb88e63750",
+            "Value": {
+                "id": "7456641f-be18-447f-a81c-615e09847b34",
+                "resourcePath": "sprites\\spr_room4\\spr_room4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d32010ab-465a-4e1c-b483-23d1a4269629",
             "Value": {
                 "id": "c151c055-dba2-46ed-b614-6c49e571d89d",
@@ -436,6 +452,22 @@
                 "id": "b249fd6e-4476-46be-944b-2e23e8d61547",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e54c73f7-c5f2-4ab3-b192-661f19405918",
+            "Value": {
+                "id": "1668a73c-3cba-40da-994b-79307265ce0f",
+                "resourcePath": "rooms\\room4\\room4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e760155c-7e06-4990-8db6-e481d446f05b",
+            "Value": {
+                "id": "e3b686ee-bf01-4518-8303-14512d3c890b",
+                "resourcePath": "rooms\\room3\\room3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
