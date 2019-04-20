@@ -295,6 +295,9 @@
             }
         },
         {
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "9301771b-da39-479c-968d-4e14729d236a",
@@ -324,6 +327,14 @@
                 "id": "8de3c7db-fd01-4032-bfbc-65aba84eeb42",
                 "resourcePath": "views\\9b92e659-0be9-465f-ac95-5b5df8e1f3e0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9e1b6bb8-4ab4-4a34-9f4a-fd8d012fd0cb",
+            "Value": {
+                "id": "7822eb32-9fd0-4a38-816d-a43ebb18839f",
+                "resourcePath": "sprites\\sprite_cat_legs\\sprite_cat_legs.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
