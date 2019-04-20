@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+direction_l = 0
+direction_r = 0
+
 if (tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")))
 {
 	speed_x = 0
@@ -9,20 +12,26 @@ if (keyboard_check(ord("A")))
 {
 	if (!tile_miting(x - 10, y - 10, layer_tilemap_get_id("Tiles_1")))
 	{
-		x += -10
+		direction_l = 1
+		speed_x = 0
 	}
 	image_xscale = 1
 	stuck = false
 }
+else
+	direction_l = 0
 if (keyboard_check(ord("D")))
 {
 	if (!tile_miting(x + 10, y - 10, layer_tilemap_get_id("Tiles_1")))
 	{
-		x += 10
+		direction_r = 1
+		speed_x = 0
 	}
 	image_xscale = -1
 	stuck = false
 }
+else
+	direction_r = 0
 if (keyboard_check_pressed(vk_space) && tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")))
 {
 	speed_y -= speed_jump_max
@@ -98,7 +107,7 @@ if (!stuck)
 	{
 		speed_y += 1
 	}
-	x += speed_x
+	x += speed_x + (direction_r - direction_l) * speed_x_max
 	y += speed_y
 }
 
