@@ -111,11 +111,18 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "409bcb68-69f3-4e11-8bf7-1d61bcad6f8f",
             "Value": {
                 "id": "9be80264-2966-46a2-b473-d814fa9aceb3",
                 "resourcePath": "fonts\\textBoxFont\\textBoxFont.yy",
                 "resourceType": "GMFont"
+=======
+            "Key": "52e53f9d-fe72-4ebc-ad7f-96deaccfc33a",
+            "Value": {
+                "id": "b1be5078-0286-460c-8c4e-0c3cd2a55817",
+                "resourcePath": "objects\\obj_lava\\obj_lava.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -124,6 +131,7 @@
                 "id": "beea5709-f154-497c-9156-1c1f7356d6f0",
                 "resourcePath": "sprites\\spr_room2\\spr_room2.yy",
                 "resourceType": "GMSprite"
+>>>>>>> roomcreate
             }
         },
         {
