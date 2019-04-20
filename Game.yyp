@@ -351,11 +351,27 @@
             }
         },
         {
+            "Key": "bfe054ef-05a9-48dd-ac92-1605ba718cbe",
+            "Value": {
+                "id": "c009cf67-6503-412e-926a-c6d3225be95e",
+                "resourcePath": "scripts\\CreateDialog\\CreateDialog.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "bfef41cf-bdeb-4ed8-a3ea-978dedfa1f1d",
             "Value": {
                 "id": "bb307c10-8157-4d16-90c7-78eeb5d69455",
                 "resourcePath": "rooms\\menu\\menu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c50e9521-8258-4d51-a26c-8a13ed95b29a",
+            "Value": {
+                "id": "d1e33e27-d401-4b2b-b05a-4bcbcf658090",
+                "resourcePath": "objects\\Platform\\Platform.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -383,11 +399,11 @@
             }
         },
         {
-            "Key": "d32010ab-465a-4e1c-b483-23d1a4269629",
+            "Key": "d4a8ecdd-86a3-4fbc-a9c4-465be9918f60",
             "Value": {
-                "id": "c151c055-dba2-46ed-b614-6c49e571d89d",
-                "resourcePath": "objects\\one_pixer\\one_pixer.yy",
-                "resourceType": "GMObject"
+                "id": "2a59aa6f-f58c-473b-93eb-e73a5ae39bed",
+                "resourcePath": "sprites\\spr_demon\\spr_demon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -412,14 +428,6 @@
                 "id": "b249fd6e-4476-46be-944b-2e23e8d61547",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
-            }
-        },
-        {
-            "Key": "f1e7aa48-a94a-4a10-9d54-a4d20ead44b9",
-            "Value": {
-                "id": "4471ad84-f822-409d-8c92-238efaa08fa5",
-                "resourcePath": "objects\\spawner\\spawner.yy",
-                "resourceType": "GMObject"
             }
         },
         {
