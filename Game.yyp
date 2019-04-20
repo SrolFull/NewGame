@@ -114,7 +114,7 @@
             "Key": "3c9157b3-c71e-42e0-b84b-a2f094aa4cb4",
             "Value": {
                 "id": "e1917235-e478-427f-b44c-aef81aa97a65",
-                "resourcePath": "objects\\DEL_ME\\DEL_ME.yy",
+                "resourcePath": "objects\\DEL_ME_old\\DEL_ME_old.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -124,6 +124,22 @@
                 "id": "9be80264-2966-46a2-b473-d814fa9aceb3",
                 "resourcePath": "fonts\\textBoxFont\\textBoxFont.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "491e2453-a604-42ba-b347-4e78046a5a03",
+            "Value": {
+                "id": "7e374365-7e70-4093-b3b3-ae2a6c72ce49",
+                "resourcePath": "objects\\last_diag\\last_diag.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "494fea4b-f3b4-46bd-8dcd-97f274742f77",
+            "Value": {
+                "id": "3328cfc0-1152-4c2b-b59d-a24c24196a41",
+                "resourcePath": "scripts\\CreateDialog\\CreateDialog.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -204,6 +220,14 @@
                 "id": "8b88acc4-51d9-4997-af3d-426c699467bf",
                 "resourcePath": "views\\749b764b-f195-49a0-8013-d323a43206d2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "74db64a0-69d2-4a67-9973-1f8e1a6c6f6f",
+            "Value": {
+                "id": "6a464ddb-73cf-483c-9dc6-207b842e7e88",
+                "resourcePath": "objects\\cat_dialog1\\cat_dialog1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -458,7 +482,7 @@
             "Key": "bfe054ef-05a9-48dd-ac92-1605ba718cbe",
             "Value": {
                 "id": "c009cf67-6503-412e-926a-c6d3225be95e",
-                "resourcePath": "scripts\\CreateDialog\\CreateDialog.yy",
+                "resourcePath": "scripts\\CreateDialogOld\\CreateDialogOld.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -519,6 +543,14 @@
             }
         },
         {
+            "Key": "d8fb063e-e69a-49b2-8f01-7c4d945a1d84",
+            "Value": {
+                "id": "cadc8f3a-6633-48e5-8590-d4a94e404f0c",
+                "resourcePath": "objects\\DEL_ME\\DEL_ME.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "de50d0dc-6138-4db1-9ba9-d5cc2bd24a8f",
             "Value": {
                 "id": "9fd6a991-55d5-46e0-b7ba-5e363394d57c",
@@ -548,14 +580,6 @@
                 "id": "5533244d-ca22-43d7-9a72-a3bcf950954c",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f4f2bc0d-048e-4fa9-bc0c-3fe94009ad28",
-            "Value": {
-                "id": "8ba654ad-c4f6-4b40-bfd2-5799ab2edfa4",
-                "resourcePath": "objects\\obj_lava\\obj_lava.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -593,7 +617,8 @@
     ],
     "script_order": [
         "7e7ce483-73e7-4f47-bad9-4baff323c822",
-        "bfe054ef-05a9-48dd-ac92-1605ba718cbe"
+        "bfe054ef-05a9-48dd-ac92-1605ba718cbe",
+        "494fea4b-f3b4-46bd-8dcd-97f274742f77"
     ],
     "tutorial": ""
 }

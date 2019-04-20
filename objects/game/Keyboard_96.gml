@@ -1,0 +1,1 @@
+di = CreateDialog(last_diag);
