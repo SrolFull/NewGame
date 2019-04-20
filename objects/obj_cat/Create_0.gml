@@ -9,5 +9,5 @@ fly = false
 stuck = false
 leg = false
 leg_normal = false
-global.isDied = false
+global.isDead = false
 global.Dialog = false;
