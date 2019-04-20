@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "3ced835c-5de1-4c52-962c-ad141aef5f39",
+            "Value": {
+                "id": "ac7f8f74-8438-4f86-b23f-a02ad6c0c515",
+                "resourcePath": "objects\\diaglog_room1\\diaglog_room1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "409bcb68-69f3-4e11-8bf7-1d61bcad6f8f",
             "Value": {
                 "id": "9be80264-2966-46a2-b473-d814fa9aceb3",
@@ -188,6 +196,14 @@
                 "id": "9f4bcea8-f0b8-4034-9910-621ed1c6adcd",
                 "resourcePath": "views\\71e45cb7-f73a-4231-8918-a4ea6a358c16.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "73c738f0-f0d7-4395-b959-728ae2bdc9d3",
+            "Value": {
+                "id": "f86466a0-c94d-4990-8263-a6e69052be18",
+                "resourcePath": "sprites\\bkg_room1\\bkg_room1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,6 +319,14 @@
             }
         },
         {
+            "Key": "92e953f6-d7e2-4020-9e6c-923b461da4f5",
+            "Value": {
+                "id": "4ee08960-0890-4c9d-8ea7-9f5cd66abbd3",
+                "resourcePath": "objects\\obj_boss\\obj_boss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "9301771b-da39-479c-968d-4e14729d236a",
@@ -367,6 +391,14 @@
             }
         },
         {
+            "Key": "a90efe6d-1844-4ae8-8410-a186cbaf9a29",
+            "Value": {
+                "id": "7f40d709-aa70-4351-968f-bbf784bcccb9",
+                "resourcePath": "objects\\obj_cheker\\obj_cheker.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "2924ac42-bc80-4db8-a05a-0232ec158c78",
@@ -412,6 +444,14 @@
                 "id": "68b43176-8ddd-43c8-addc-eeb482f3c94c",
                 "resourcePath": "objects\\obj_hell_gates\\obj_hell_gates.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bf98e289-8074-4d95-b1b8-3c94a3f7730e",
+            "Value": {
+                "id": "e2b24c96-711e-4acc-933a-a83e7520df9f",
+                "resourcePath": "sprites\\spr_boss_1\\spr_boss_1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

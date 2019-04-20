@@ -2,7 +2,7 @@
 {
     "name": "startPage",
     "id": "7aee20c8-6751-45b0-bd33-6bba33d33493",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
