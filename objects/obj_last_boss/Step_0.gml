@@ -2,12 +2,19 @@
 // You can write your code in this editor
 if (time > 0)
 {
-	time -= 1
+		time -= 1
 }
 else
 {
-	direction_x = sign(random_range(-1, 1))
 	time = random_range(20, 40)
+	if (sign(random_range(-1, 1)) > 0 && instance_exists(obj_cat))
+	{
+		direction_x = sign(obj_cat.x - x)
+	}
+	else
+	{
+		direction_x = sign(random_range(-1, 1))
+	}
 }
 
 image_xscale = -abs(image_xscale) * direction_x
