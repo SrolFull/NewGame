@@ -11,7 +11,7 @@ if (!global.Dialog) {
 
 	if (keyboard_check_pressed(ord("G")) && !instance_exists(cat_dialog))
 	{
-		CreateDialog(Gleb_event)
+		CreateDialog(cat_dialog)
 	}
 
 	if (place_meeting(x,y,obj_lava)){

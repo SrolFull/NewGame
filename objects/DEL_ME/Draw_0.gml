@@ -21,9 +21,18 @@ draw_sprite_ext(one_px_spr, 0, gui_x, gui_y + cam_h - box_height - 1, cam_w, 1, 
 draw_sprite_ext(one_px_spr, 0, gui_x, gui_y + cam_h - box_height, cam_w, box_height, 0, c_black, 1)
 draw_sprite_ext(spr, 0, gui_x + spr_dx, gui_y + spr_dy + cam_h - new_spr_h, spr_scale, spr_scale, 0, c_white, 1)
 if(is_text_aligned)
-	draw_text_ext(gui_x + (cam_w + new_spr_w - text_width)/2, gui_y + cam_h - box_height, text, font_h + 1, free_width)
+{
+	draw_text_ext(gui_x + (cam_w + new_spr_w - text_width)/2, gui_y + cam_h - box_height, info.questions[index], font_h + 1, free_width)
+	for(var i = 0; i < info.a_count[index]; i++)
+	{
+		cl = (selected == i) ? c_maroon : c_gray
+		draw_text_ext_color(gui_x + (cam_w + new_spr_w - text_width)/2, gui_y + cam_h - box_height + (i+1)*font_h, 
+			info.answer[index, i], font_h + 1, free_width, cl, cl, cl, cl, 1)
+	}
+}
 else
+{
 	draw_text_ext(gui_x + new_spr_w, gui_y + cam_h - box_height, text, font_h + 1, free_width)
-	
+}	
 
 

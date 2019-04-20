@@ -1,18 +1,34 @@
-var check = keyboard_check_pressed(ord("E"));
-if(check && !lastCheck)
+var e_check = keyboard_check_pressed(ord("E"));
+var r_check = keyboard_check_pressed(ord("T"));
+if(e_check && !eLastCheck)
 {
 	if(info.count - 1 > index) 
 	{
-		index++;
-		spr = info.sprites[index];
-		text = info.texts[index];
+		if(info.edges[index, selected] == "END")
+		{
+			global.lastDialogResult = result[i]
+		}
+		else
+		{
+			index = info.edges[index]
+			selected = 0	
+		}
+		//text = info.texts[index];
 	}
 	else
 	{
-	global.Dialog = false;
-	instance_destroy(self)
+		global.Dialog = false;
+		instance_destroy(self)
 	
 	}
 	
 }
-lastCheck = check
+
+if(r_check && !rLastCheck)
+{
+	selected = (selected + 1) mod info.a_count[index]
+	
+}
+
+rLastCheck = r_check
+eLastCheck = e_check
