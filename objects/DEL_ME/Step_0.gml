@@ -10,6 +10,7 @@ if(check && !lastCheck)
 	else
 	{
 	global.Dialog = false;
+	global.BossIsDead = true;
 	instance_destroy(self)
 	
 	}
