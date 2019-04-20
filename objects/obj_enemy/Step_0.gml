@@ -1,11 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (tile_miting(x + 10 * sign(image_xscale), y - 10, layer_tilemap_get_id("Tiles_1")))
+if (tile_miting(x + 20 * sign(image_xscale), y - 20, layer_tilemap_get_id("Tiles_1")))
 {
-	if (tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")))
+	if (tile_miting(x, y + 20, layer_tilemap_get_id("Tiles_1")))
 	{
-		counter = 10
+		counter = 20
 		speed_y = -speed_y_max
 		last_x = x
 	}
@@ -23,7 +23,7 @@ if (counter > 0)
 	}
 }
 
-if (tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")))
+if (tile_miting(x, y + 20, layer_tilemap_get_id("Tiles_1")))
 {
 	if (speed_y > 0)
 	{
@@ -35,7 +35,7 @@ else
 	speed_y += 1
 }
 
-if (!tile_miting(x + 10 * sign(image_xscale), y - 10, layer_tilemap_get_id("Tiles_1")))
+if (!tile_miting(x + 20 * sign(image_xscale), y - 20, layer_tilemap_get_id("Tiles_1")))
 {
 	x += sign(image_xscale) * speed_x_max
 }
