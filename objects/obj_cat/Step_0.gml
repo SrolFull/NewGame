@@ -115,7 +115,8 @@ if (!stuck)
 	{
 		speed_y += 1
 	}
-	if (!(tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")) && speed_y > 0))
+	if (!(tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")) && speed_y > 0) &&
+	!(tile_miting(x, y - 10, layer_tilemap_get_id("Tiles_1")) && speed_y < 0))
 	{
 		y += speed_y
 	}
