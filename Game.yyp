@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "d1f1427e-0df5-46db-8c74-4dfc4092ed9a",
+            "Value": {
+                "id": "08fc5e8f-c443-4d7e-9e9c-ca900ca44afc",
+                "resourcePath": "sprites\\spr_backgr\\spr_backgr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d4a8ecdd-86a3-4fbc-a9c4-465be9918f60",
             "Value": {
                 "id": "2a59aa6f-f58c-473b-93eb-e73a5ae39bed",
