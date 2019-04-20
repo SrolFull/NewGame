@@ -1,3 +1,4 @@
+global.Dialog = true;
 var obj_dialog_ref = argument0
 var dialog_info = instance_create_depth(0, 0, 0, obj_dialog_ref)
 

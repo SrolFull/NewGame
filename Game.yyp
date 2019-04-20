@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "1e3474a5-1280-4524-9e15-50b82dcdc82f",
-            "Value": {
-                "id": "c56320f4-cf9b-4aa4-9843-379899a88a88",
-                "resourcePath": "scripts\\create_dialog\\create_dialog.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "242b6b95-57ea-41ab-a188-041a1a365219",
             "Value": {
                 "id": "23c792b2-9750-484e-a93c-4c580ee3ec4b",
@@ -90,7 +82,7 @@
             "Key": "371c6435-9f43-427b-b400-3695eadfe708",
             "Value": {
                 "id": "44b5b825-9277-468f-8647-3d4a68b67647",
-                "resourcePath": "sprites\\spr_icon\\spr_icon.yy",
+                "resourcePath": "sprites\\icon_cat\\icon_cat.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -115,14 +107,6 @@
             "Value": {
                 "id": "e1917235-e478-427f-b44c-aef81aa97a65",
                 "resourcePath": "objects\\DEL_ME\\DEL_ME.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "3ced835c-5de1-4c52-962c-ad141aef5f39",
-            "Value": {
-                "id": "ac7f8f74-8438-4f86-b23f-a02ad6c0c515",
-                "resourcePath": "objects\\diaglog_room1\\diaglog_room1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -170,7 +154,7 @@
             "Key": "6686131f-95df-449c-9bf2-e5dfe5234bd5",
             "Value": {
                 "id": "391a79c1-d43a-440e-95ff-7c2aaf23ae6a",
-                "resourcePath": "objects\\cat_dialog\\cat_dialog.yy",
+                "resourcePath": "objects\\dlg_room1\\dlg_room1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -316,6 +300,14 @@
                 "id": "9301771b-da39-479c-968d-4e14729d236a",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "93848fba-eba9-46ed-afd2-0bb8ea5f7672",
+            "Value": {
+                "id": "f3c8f0f7-f56d-456a-8aa0-096edda2d8fa",
+                "resourcePath": "sprites\\icon_bik\\icon_bik.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -585,7 +577,6 @@
     ],
     "script_order": [
         "7e7ce483-73e7-4f47-bad9-4baff323c822",
-        "1e3474a5-1280-4524-9e15-50b82dcdc82f",
         "bfe054ef-05a9-48dd-ac92-1605ba718cbe"
     ],
     "tutorial": ""
