@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "9e1b6bb8-4ab4-4a34-9f4a-fd8d012fd0cb",
+            "Value": {
+                "id": "7822eb32-9fd0-4a38-816d-a43ebb18839f",
+                "resourcePath": "sprites\\sprite_cat_legs\\sprite_cat_legs.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "9399815e-be9b-47fc-b275-d6e7b1f4419f",

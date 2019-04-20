@@ -93,6 +93,7 @@ if (mouse_check_button_released(mb_left) && (tile_miting(x, y + 10, layer_tilema
 	stuck = false
 	l_x = mouse_x - x
 	l_y = mouse_y - y
+	image_xscale = -sign(l_x)
 	l = sqrt(l_y * l_y + l_x * l_x)
 	l_x = l_x / l
 	l_y = l_y / l
@@ -107,8 +108,11 @@ if (!stuck)
 	{
 		speed_y += 1
 	}
+	if (!(tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")) && speed_y > 0))
+	{
+		y += speed_y
+	}
 	x += speed_x + (direction_r - direction_l) * speed_x_max
-	y += speed_y
 }
 
 
