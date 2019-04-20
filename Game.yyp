@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1ac8aa54-4e93-49c3-8720-9ff1ce132a19",
+            "Value": {
+                "id": "081c5a80-8282-4093-b74e-45dadfd2cb4c",
+                "resourcePath": "sprites\\spr_lava_room4\\spr_lava_room4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1e3474a5-1280-4524-9e15-50b82dcdc82f",
             "Value": {
                 "id": "c56320f4-cf9b-4aa4-9843-379899a88a88",
@@ -507,6 +515,14 @@
             "Value": {
                 "id": "5f5c7358-0413-4a5b-a3af-bca8fc654424",
                 "resourcePath": "sprites\\spr_lava_room1\\spr_lava_room1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fef5af9a-9c91-4956-bd9c-753aab45bd94",
+            "Value": {
+                "id": "38ffbec0-670b-4a4f-a8a9-6ed02d46ff2a",
+                "resourcePath": "sprites\\spr_lava_room3\\spr_lava_room3.yy",
                 "resourceType": "GMSprite"
             }
         }
