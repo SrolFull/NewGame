@@ -11,7 +11,7 @@ if (keyboard_check(ord("A")))
 	{
 		x += -10
 	}
-	image_xscale = 2
+	image_xscale = 1
 	stuck = false
 }
 if (keyboard_check(ord("D")))
@@ -20,7 +20,7 @@ if (keyboard_check(ord("D")))
 	{
 		x += 10
 	}
-	image_xscale = -2
+	image_xscale = -1
 	stuck = false
 }
 if (keyboard_check_pressed(vk_space) && tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")))
