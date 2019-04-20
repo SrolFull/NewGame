@@ -4,19 +4,20 @@
     "mvc": "1.1",
     "name": "c618d593-5f40-403f-a1f3-5e6d32116fd8",
     "children": [
-        "7750d49f-b65d-4803-9d0f-a52956855f7f",
         "c50e9521-8258-4d51-a26c-8a13ed95b29a",
         "b21336f8-c196-488b-b8f4-7429b1756ea6",
-<<<<<<< HEAD
         "bb139be8-912b-4b17-8e2f-55e78366d305",
-        "8e715e26-5def-4452-9453-e7f78fff8c23",
         "6686131f-95df-449c-9bf2-e5dfe5234bd5",
-        "302bcc07-5445-46f2-ba71-f6383f3c4488",
-        "d32010ab-465a-4e1c-b483-23d1a4269629",
-        "f1e7aa48-a94a-4a10-9d54-a4d20ead44b9"
+        "7750d49f-b65d-4803-9d0f-a52956855f7f",
+        "242b6b95-57ea-41ab-a188-041a1a365219",
+<<<<<<< HEAD
+        "76e956c3-88f7-4a12-934b-dbc608ffaca5",
+        "3c9157b3-c71e-42e0-b84b-a2f094aa4cb4",
+        "79296f98-2b48-4acd-8863-5c4f61d8c1c0"
 =======
-        "52e53f9d-fe72-4ebc-ad7f-96deaccfc33a"
->>>>>>> roomcreate
+        "3c9157b3-c71e-42e0-b84b-a2f094aa4cb4",
+        "7a85bfb6-c5ae-440b-b82f-6bb9dc835392"
+>>>>>>> d752fa6e901a09bc3b5b5755df1f5482ca3dcea1
     ],
     "filterType": "GMObject",
     "folderName": "objects",

@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "cafb774f-5150-4eda-aad4-526c4ff50467",
+            "Value": {
+                "id": "ee1c7a33-223f-4ee5-8fb3-2c2c5685521b",
+                "resourcePath": "sprites\\Gleb\\Gleb.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "8fe5afa3-3548-4d85-afd8-04cf0adf9cdb",
