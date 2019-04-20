@@ -49,7 +49,7 @@ if (tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")))
 	fly = false
 }
 
-show_debug_message(fly)
+//show_debug_message(fly)
 
 if (tile_miting(x + 10, y - 10, layer_tilemap_get_id("Tiles_1")))
 {

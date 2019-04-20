@@ -6,9 +6,9 @@ var di_info = instance_create_depth(0, 0, 0, di_info_obj_ref)
 var base_depth = -1000
 var gui_w = display_get_gui_width();
 var gui_h = display_get_gui_height()
-var box_height = 200
+var box_height = 100
 
-var border_height = 5
+var border_height = 1
 
 box = instance_create_depth(0, gui_h - box_height, base_depth, one_pixer)
 border = instance_create_depth(0, gui_h - box_height, base_depth - 1, one_pixer)
