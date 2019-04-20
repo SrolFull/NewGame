@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "f4f2bc0d-048e-4fa9-bc0c-3fe94009ad28",
+            "Value": {
+                "id": "8ba654ad-c4f6-4b40-bfd2-5799ab2edfa4",
+                "resourcePath": "objects\\obj_lava\\obj_lava.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
             "Value": {
                 "id": "50893085-ba5d-4af5-9eec-7e1f34531f03",
