@@ -10,3 +10,4 @@ stuck = false
 leg = false
 leg_normal = false
 global.isDied = false
+global.Dialog = false;

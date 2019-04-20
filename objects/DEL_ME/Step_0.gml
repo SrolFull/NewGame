@@ -9,7 +9,10 @@ if(check && !lastCheck)
 	}
 	else
 	{
-		instance_destroy(self)
+	global.Dialog = false;
+	instance_destroy(self)
+	
 	}
+	
 }
 lastCheck = check

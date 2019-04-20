@@ -2,7 +2,7 @@
     "id": "6686131f-95df-449c-9bf2-e5dfe5234bd5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "cat_dialog",
+    "name": "dlg_room1",
     "eventList": [
         {
             "id": "7501afce-cf95-43ec-b800-263bf9652314",
