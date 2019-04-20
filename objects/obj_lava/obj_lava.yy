@@ -1,10 +1,19 @@
 {
-    "id": "52e53f9d-fe72-4ebc-ad7f-96deaccfc33a",
+    "id": "f4f2bc0d-048e-4fa9-bc0c-3fe94009ad28",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_lava",
     "eventList": [
-        
+        {
+            "id": "b1d871db-49cd-40c2-b892-5cb1d71067ac",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "f4f2bc0d-048e-4fa9-bc0c-3fe94009ad28"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

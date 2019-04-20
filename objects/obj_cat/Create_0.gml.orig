@@ -6,5 +6,9 @@ speed_x = 0
 speed_y = 0
 fly = false
 stuck = false
+<<<<<<< HEAD
+global.isDied = false;
+=======
 leg = false
 leg_normal = false
+>>>>>>> 918e3b58362a6192b2cd339e7e7b50e4b8837c5c

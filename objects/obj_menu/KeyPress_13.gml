@@ -4,9 +4,10 @@ switch(menu_index)
 	case 0:
 	room_goto_next();
 		break;
-	//Load level
+	//Controls
 	case 1:
-	
+		instance_create_layer(x,y,"Instances",obj_options);
+		instance_destroy();
 		break;
 	//Exit
 	case 2:
