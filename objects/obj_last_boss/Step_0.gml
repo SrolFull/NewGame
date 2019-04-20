@@ -19,11 +19,19 @@ else
 
 image_xscale = -abs(image_xscale) * direction_x
 
-if (!tile_miting(x + direction_x  * 10, y, layer_tilemap_get_id("Tiles_1")))
+if (!global.Dialog)
 {
-	x += direction_x * speed_x_max
-}
-if (!tile_miting(x, y + 5, layer_tilemap_get_id("Tiles_1")))
-{
-	y += 1
+	if (!tile_miting(x + direction_x  * 10, y, layer_tilemap_get_id("Tiles_1")))
+	{
+		x += direction_x * speed_x_max
+	}
+	if (!tile_miting(x, y + 15, layer_tilemap_get_id("Tiles_1")))
+	{
+		show_debug_message(y)
+		y += 1
+	}
+	else
+	{
+		y -= 1
+	}
 }

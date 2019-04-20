@@ -114,7 +114,7 @@ if (!global.Dialog) {
 
 	if (!stuck)
 	{
-		if (!tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")))
+		if (!tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")) && speed_y < 15)
 		{
 			speed_y += 1
 		}
