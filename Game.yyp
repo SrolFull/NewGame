@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "460d3e6b-1d37-455e-b693-a9d1fd588219",
+            "Value": {
+                "id": "68e8f46c-46bc-4859-9b20-1b560ca00425",
+                "resourcePath": "sprites\\Lusi\\Lusi.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4b0ddf15-b4ae-48ec-a6ec-b67ba97259cc",
             "Value": {
                 "id": "00bf21fd-e71d-4f04-8481-6c6f2003bc0c",
