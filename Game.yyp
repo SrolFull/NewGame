@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "390d6575-df56-4585-a669-506d9df9f48a",
+            "Value": {
+                "id": "3d8dca37-7960-4984-bbeb-81c922242da1",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "965e24d6-fda0-4caf-83a2-ea9f09183308",
@@ -84,6 +92,14 @@
                 "id": "3815ef4a-6c1a-4067-8bb1-f5faa6024ea3",
                 "resourcePath": "options\\ps4\\options_ps4.yy",
                 "resourceType": "GMPS4Options"
+            }
+        },
+        {
+            "Key": "52e53f9d-fe72-4ebc-ad7f-96deaccfc33a",
+            "Value": {
+                "id": "b1be5078-0286-460c-8c4e-0c3cd2a55817",
+                "resourcePath": "objects\\obj_lava\\obj_lava.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -348,6 +364,22 @@
                 "id": "50893085-ba5d-4af5-9eec-7e1f34531f03",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f9845aa6-b5c4-4b07-a3e9-bc12891c7fd4",
+            "Value": {
+                "id": "3f9101c9-55c2-4800-ac32-9245287ce2d6",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "fd18a441-3091-4777-a12a-4806a9ffc1d9",
+            "Value": {
+                "id": "5f5c7358-0413-4a5b-a3af-bca8fc654424",
+                "resourcePath": "sprites\\spr_lava\\spr_lava.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
