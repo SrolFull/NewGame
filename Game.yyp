@@ -199,10 +199,26 @@
             }
         },
         {
+            "Key": "76e956c3-88f7-4a12-934b-dbc608ffaca5",
+            "Value": {
+                "id": "06ec0e07-bd34-402e-bbcf-2d18bf42676a",
+                "resourcePath": "objects\\obj_menu\\obj_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7750d49f-b65d-4803-9d0f-a52956855f7f",
             "Value": {
                 "id": "67952ad9-3f80-484b-af6b-50e0056211cd",
                 "resourcePath": "objects\\obj_cat\\obj_cat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "79296f98-2b48-4acd-8863-5c4f61d8c1c0",
+            "Value": {
+                "id": "aac6a156-8b62-4ce9-a5ad-b1aa6db10961",
+                "resourcePath": "objects\\game\\game.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -391,6 +407,14 @@
             }
         },
         {
+            "Key": "cafb774f-5150-4eda-aad4-526c4ff50467",
+            "Value": {
+                "id": "ee1c7a33-223f-4ee5-8fb3-2c2c5685521b",
+                "resourcePath": "sprites\\Gleb\\Gleb.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "8fe5afa3-3548-4d85-afd8-04cf0adf9cdb",
@@ -468,6 +492,14 @@
                 "id": "e42c468e-ddf8-418c-8af1-347b9b649df1",
                 "resourcePath": "rooms\\room2\\room2.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f9c2178a-fca5-438d-a51d-a5e420e1540a",
+            "Value": {
+                "id": "34e57eca-c7dd-4e5a-b38c-08498ebd503f",
+                "resourcePath": "sounds\\snd_menu_switch\\snd_menu_switch.yy",
+                "resourceType": "GMSound"
             }
         },
         {
