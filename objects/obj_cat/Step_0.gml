@@ -8,6 +8,13 @@ if (tile_miting(x, y + 10, layer_tilemap_get_id("Tiles_1")))
 	speed_x = 0
 }
 
+
+if (keyboard_check_pressed(ord("G")) && !instance_exists(cat_dialog))
+{
+	CreateDialog(cat_dialog)
+}
+
+
 if (keyboard_check(ord("A")))
 {
 	if (!tile_miting(x - 10, y - 10, layer_tilemap_get_id("Tiles_1")))
