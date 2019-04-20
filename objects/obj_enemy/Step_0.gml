@@ -13,7 +13,7 @@ if (tile_miting(x + 20 * sign(image_xscale), y - 20, layer_tilemap_get_id("Tiles
 
 if (counter > 0)
 {
-	counter -= 1
+	counter -= 1	
 	if (counter == 0)
 	{
 		if (last_x - 1 < x && x < last_x + 1)
