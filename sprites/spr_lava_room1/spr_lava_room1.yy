@@ -2,7 +2,7 @@
     "id": "fd18a441-3091-4777-a12a-4806a9ffc1d9",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_lava",
+    "name": "spr_lava_room1",
     "For3D": false,
     "HTile": false,
     "VTile": false,
